@@ -1,5 +1,6 @@
 ### Welcome to my GitHub 👋
-- 🔭 I’m currently working on gaining expereience by joining externships and career acceleration programs. I also tutor students taking Intro to Python. 
+- ✅ Able to relocate !!
+- 🔭 I’m currently working on gaining expereience by joining externships and career acceleration programs.
 - 🌱 I’m learning how to create projects on GitHub, Loom, and Tableau to build a professional platform.
 - 👯 I’m looking to collaborate with all industries, but especially retail.
 - 🤔 I’m looking for help with networking with companies and making connections with hiring managers.
